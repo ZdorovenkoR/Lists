@@ -100,7 +100,7 @@ namespace GeekBraintests
 
         public void RemoveNode(Node node)
         {
-            throw new NotImplementedException();
+            //не нашел решение
         }
     }
 }
